@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Nafisal Febriansyah and I'm a PROGRAMMER, from INDONESIA</h2>
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation" />
 
 ###
