@@ -56,30 +56,14 @@ Pronouns: he/him
 ## 📊 STATS POWER
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=isal2504&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=isal2504&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 MOST USED LANGUAGES
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isal2504&layout=donut&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isal2504&layout=compact&theme=radical"/>
-</p>
-
----
 
 ## 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/isal2504/isal2504/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
