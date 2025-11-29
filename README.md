@@ -26,7 +26,7 @@ Pronouns: he/him
 
 ## ⚙️ TECH STACK
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -68,7 +68,9 @@ Pronouns: he/him
 ## 🔥 MOST USED LANGUAGES
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isal2504&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isal2504&layout=donut&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isal2504&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -76,8 +78,20 @@ Pronouns: he/him
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/isal2504/isal2504/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/isal2504/isal2504/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=isal2504&style=for-the-badge&color=blueviolet"/>
+</p>
+
+<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight"/>
 
 ---
 
@@ -85,3 +99,5 @@ Pronouns: he/him
 🌸 <i>"The code path of a dev is just like an anime arc —  
 hard grind, epic struggle, legendary growth."</i> 🌸
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
