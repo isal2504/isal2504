@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">⚔️Lasifan</h1>
-<h3 align="center">🎌 PHP & MySQL Developer • Anime Addict</h3>
+<h3 align="center">PHP & MySQL Developer</h3>
 
 <p align="center">
 Pronouns: he/him
