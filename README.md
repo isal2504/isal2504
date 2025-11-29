@@ -21,8 +21,7 @@ Pronouns: he/him
 ---
 
 ## 🌟 ABOUT ME
-
-🎮 Debug sambil nonton anime  
+  
 ☕ PHP + kopi + MySQL = hidup  
 🔥 Fokus backend & CRUD system  
 🌱 Ngulik JS sambil bertahan hidup  
