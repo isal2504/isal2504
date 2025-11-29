@@ -1,16 +1,5 @@
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 
-  <g>
-    <text x="0" y="32">⚡ Lasifan • Lasifan • Lasifan • Lasifan • Lasifan •</text>
-    <animateTransform attributeName="transform"
-                      type="translate"
-                      from="0 0" to="-1000 0"
-                      begin="0s" dur="10s"
-                      repeatCount="indefinite"/>
-  </g>
-</svg>
-</p>
-
 ## Hi, I'm Lasifan 👋  
 Web Developer focused on building clean, simple, and functional websites.
 
