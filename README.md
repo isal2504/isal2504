@@ -1,5 +1,3 @@
-<img src="https://wallpapercave.com/wp/wp10197679.jpg" width="100%"/>
-
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 
 ## Hi, I'm Lasifan 👋  
@@ -31,6 +29,6 @@ Build real-world web systems and grow as a professional developer.
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
-<img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="280"/>
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="220"/>
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="220"/>
 </p>
