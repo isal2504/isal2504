@@ -56,11 +56,11 @@ Pronouns: he/him
 ## 📊 STATS POWER
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=isal2504&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isal2504&theme=tokyonight"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Pronouns: he/him
 ## 🔥 MOST USED LANGUAGES
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isal2504&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Pronouns: he/him
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/USERNAME_KAMU/isal2504/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
