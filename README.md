@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFC6&center=true&vCenter=true&width=600&lines=PHP+%26+MySQL+Enthusiast;Anime+Powered+Web+Developer;Never+Stop+Coding+🚀"/>
 </p>
 
+<p align="center">
+<img src="https://wallpapercave.com/wp/wp10197679.jpg" width="95%"/>
+</p>
+
 <h1 align="center">Lasifan</h1>
 <h3 align="center">PHP & MySQL Developer</h3>
 
@@ -10,7 +14,8 @@ Pronouns: he/him
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="280"/>
 </p>
 
 ---
@@ -61,9 +66,7 @@ Pronouns: he/him
 
 ---
 
-
 ## 🐍 CONTRIBUTION SNAKE
-
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
