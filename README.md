@@ -48,7 +48,7 @@ Pronouns: he/him
 ## 🏆 GITHUB TROPHIES
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=isal2504&theme=radical&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=radical&margin-w=10"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Pronouns: he/him
 ## 🔥 MOST USED LANGUAGES
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isal2504&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Pronouns: he/him
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME_KAMU/isal2504/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
