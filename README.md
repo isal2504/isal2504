@@ -1,51 +1,87 @@
-<h1 align="center">Hi 👋, I'm Mexa Vengin</h1>
-<h3 align="center">🎌 PHP & MySQL Web Developer • Anime Lover</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFC6&center=true&vCenter=true&width=600&lines=PHP+%26+MySQL+Enthusiast;Anime+Powered+Web+Developer;Never+Stop+Coding+🚀"/>
+</p>
+
+<h1 align="center">⚔️ Mexa Vengin ⚔️</h1>
+<h3 align="center">🎌 PHP & MySQL Developer • Anime Addict</h3>
 
 <p align="center">
-Pronouns: he/him  
+Pronouns: he/him
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
 ---
 
-### 🌸 About Me
-- 💻 Backend dev that loves **PHP & MySQL**
-- 🔥 Building dynamic web apps
-- 🌱 Learning JavaScript
-- 🎌 Anime makes debugging easier 😄
+## 🌟 ABOUT ME
+
+🎮 Debug sambil nonton anime  
+☕ PHP + kopi + MySQL = hidup  
+🔥 Fokus backend & CRUD system  
+🌱 Ngulik JS sambil bertahan hidup  
 
 ---
 
-### 🛠 Tech Stack
+## ⚙️ TECH STACK
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-8892BF?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-### 🎯 Developer Goals
-- 🚀 Master PHP backend systems
-- 📦 Create production-ready web apps
-- ⚔️ Build anime-style projects
-- 💎 Become full-stack dev
+## 🎯 DEVELOPER QUESTS
+
+✅ Master login / CRUD PHP  
+✅ Build payroll web / POS system  
+⚔️ Level up JavaScript  
+🔥 Full-stack arc
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=isal2504&theme=radical&margin-w=10"/>
+</p>
+
+---
+
+## 📊 STATS POWER
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 MOST USED LANGUAGES
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 <p align="center">
-🌸 <i>"Code hard like an anime protagonist — growth arc never ends."</i> 🌸
+🌸 <i>"The code path of a dev is just like an anime arc —  
+hard grind, epic struggle, legendary growth."</i> 🌸
 </p>
