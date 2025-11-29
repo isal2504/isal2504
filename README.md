@@ -33,3 +33,8 @@ Pronouns: he/him
 
 ### 📫 Connect
 GitHub: https://github.com/isal2504
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=450&lines=Web+Developer+with+Anime+Spirit;PHP+%7C+MySQL+%7C+HTML+%7C+CSS;Never+Stop+Learning+🚀"/>
+</p>
+
