@@ -1,13 +1,15 @@
-<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 
-font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
-<br><br>
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
-<br><br>
-</div>
+## Hi, I'm Lasifan 👋
+Web Developer focused on building clean, simple, and functional websites.
+
+**Tech Stack:**  
+PHP • MySQL • HTML • CSS  
+
+**Current Focus:**  
+- Backend development with PHP  
+- Database systems with MySQL  
+- Clean front-end layout using HTML & CSS  
+
+**Goal:**  
+Build real-world web systems and grow as a professional developer.
