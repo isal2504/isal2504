@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFC6&center=true&vCenter=true&width=600&lines=PHP+%26+MySQL+Enthusiast;Anime+Powered+Web+Developer;Never+Stop+Coding+🚀"/>
 </p>
 
-<h1 align="center">⚔️Lasifan</h1>
+<h1 align="center">Lasifan</h1>
 <h3 align="center">PHP & MySQL Developer</h3>
 
 <p align="center">
