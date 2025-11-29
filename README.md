@@ -26,6 +26,6 @@ Web Developer focused on building clean, simple, and functional websites.
 ### 🎯 Goal
 Build real-world web systems and grow as a professional developer.
 <a href="https://yuna0x0.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="20%">
+    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp"  width="20%">
   </a>
 ---
