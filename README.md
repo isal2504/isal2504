@@ -32,4 +32,4 @@ Pronouns: he/him
 ---
 
 ### 📫 Connect
-GitHub: https://github.com/username
+GitHub: https://github.com/isal2504
