@@ -1,7 +1,5 @@
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<a href="https://yuna0x0.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
-  </a>
+
 ## Hi, I'm Lasifan 👋  
 Web Developer focused on building clean, simple, and functional websites.
 
@@ -27,5 +25,7 @@ Web Developer focused on building clean, simple, and functional websites.
 
 ### 🎯 Goal
 Build real-world web systems and grow as a professional developer.
-
+<a href="https://yuna0x0.com">
+    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
+  </a>
 ---
